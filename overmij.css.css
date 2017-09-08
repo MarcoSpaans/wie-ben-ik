@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+  background-image: url("images/achtergrond2.jpg");
+}
+p {
+  padding: 7px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 24px;
+  color: white;
+}
+h1,h2,h3,h4 {
+  color:purple;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+img {
+  margin: 10px;
+}
+a {
+  font-family: 'Anton', sans-serif;
+  font-size: 18px;
+}
